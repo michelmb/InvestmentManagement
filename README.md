@@ -1,2 +1,3 @@
 # InvestmentManagement
-Codes about Investiment Management
+Codes and models exercises about Investment Management
+by Michel Miotto Barbosa, mmiottobarbosa@gmail.com
